@@ -2,12 +2,12 @@ BOT MULTI-BOT ACTUALIZADO
 
 ¿Quieres probarlo?
 Aquí te puedes unir a mi servidor:
-<a href="https://discord.gg/pyVHyAN6Nw">https://discord.gg/pyVHyAN6Nw</a>
+pronto
 <br>
 <br>
 O tambien puedes añadir al bot a tú servidor:
 <br>
-<a href="https://discord.com/api/oauth2/authorize?client_id=863314803271270421&permissions=8&scope=bot">https://discord.com/api/oauth2/authorize?client_id=863314803271270421&permissions=8&scope=bot</a>
+pronto
 <br>
 <br>
 <img src="https://i.imgur.com/5MZIbzt.png">
