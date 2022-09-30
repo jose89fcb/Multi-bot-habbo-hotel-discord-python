@@ -18,6 +18,7 @@ Una vez añadido a tu servidor escribe el comando /ayudabot
 <img src="https://i.imgur.com/iPKnLKu.png">
 <br>
 Puedes presionar click en alguno de los comandos...
+<br>
 <img src="https://i.imgur.com/twrMUaC.png">
 <br>
 
