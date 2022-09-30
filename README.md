@@ -25,4 +25,3 @@ Puedes presionar click en alguno de los comandos...
 Espero que os guste!
 <br>
 <br>
-Esperenlo Muy pronto!
