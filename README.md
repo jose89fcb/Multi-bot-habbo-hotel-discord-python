@@ -16,6 +16,7 @@ O tambien puedes añadir al bot a tú servidor:
 Una vez añadido a tu servidor escribe el comando /ayudabot
 <br>
 <img src="https://i.imgur.com/iPKnLKu.png">
+<br>
 Puedes presionar click en alguno de los comandos...
 <img src="https://i.imgur.com/twrMUaC.png">
 <br>
